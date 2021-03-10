@@ -1,0 +1,1 @@
+CPlus Adapter design pattern
